@@ -1,0 +1,19 @@
+En esta Carpeta se encuentran los modelos de la pagina web en sus 3 versiones mobile, tablet y web. y si se realizo cambios
+
+En la version web del menu se realizo cambio de diseño que el menu sea igual a las otras versiones 
+
+En la seccion de ayuda se cambio el formato de la version mobile 
+
+Se le quito la barra de busqueda en todas las versiones html 
+
+Se cambio el formato de la seccion de galeria en el formato web
+
+Se cambio de posicion las ultimas imagenes de la seccion de integrantes
+
+La seccion de sucursales no se logro los resultados esperados 
+
+El metodo de hosting 000 no permitio mas ingresos gratis debido a que cierran ese servicio (Fecha que no acepataron mas 07/07)
+
+Se subio el archivo por media de Git Hub 
+
+Link: https://majestic-pako.github.io/Capiweb/
